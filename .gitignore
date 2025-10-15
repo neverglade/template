@@ -1,0 +1,2 @@
+# The specifics of .gitignore will differ for every port, but we _always_ want to ignore .DS_Store to prevent MacOS users cluttering repos
+.DS_Store
