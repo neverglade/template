@@ -1,6 +1,6 @@
 <h3 align="center">
   <img width="100px" src="https://github.com/neverglade/neverglade/blob/main/assets/logos/exports/ebony.png?raw=true" align="center"><br/>
-  Neverglade for <a href="https://github.com/kovidgoyal/kitty">Kitty</a>
+  Neverglade for <a href="./">[PORT]</a>
   
   </h3>
 
